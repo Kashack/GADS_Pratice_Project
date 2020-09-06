@@ -39,8 +39,8 @@
 
             <ImageButton
                 android:id="@+id/cancel_btn"
-                android:layout_width="72dp"
-                android:layout_height="58dp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginEnd="16dp"
                 android:background="@android:color/transparent"
@@ -75,9 +75,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="Submission Succesfully"
+                android:text="Submission Successful"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-                android:textSize="24sp"
+                android:textSize="18sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
